@@ -6,7 +6,7 @@ Trained and ready to use Neural Networks and Script for synthetic data generatio
  To predict outcomes from your data use:
  Predictions<-predict(Chosen_Model, Newdata)
  
- Legend:
+ Legend:<br/>
  Model              Outcome   Meanning 
  Lipids_PDAC_NN       1         PDAC
  Lipids_CCA_NN        0         CCA
